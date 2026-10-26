@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dashboard Documentation",
-  description: "Documentation for Dashboard",
+  title: "Docker app",
+  description: "A Docker app",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

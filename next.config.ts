@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   // cacheComponents: true,
   // partialPrefetching: true,
-//   output: "standalone",
+  // output: "standalone",
   turbopack: {
     rules: {
       "*.css": {
