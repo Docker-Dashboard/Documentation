@@ -3,7 +3,9 @@
     "apps": {
       "docker": "Docker",
       "dashboard": "Dashboard",
-      "nextjs": "Next.js"
+      "nextjs": "Next.js",
+      "pihole": "Pi-Hole",
+      "jellyfin": "Jellyfin"
     },
     "developer": {
       "file": "file",
