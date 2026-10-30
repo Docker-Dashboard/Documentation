@@ -1,0 +1,20 @@
+{
+  "words": {
+    "apps": {
+      "docker": "Docker",
+      "dashboard": "Dashboard",
+      "nextjs": "Next.js",
+      "pihole": "Pi-Hole",
+      "jellyfin": "Jellyfin"
+    },
+    "developer": {
+      "file": "file",
+      "command": "command",
+      "yaml": "yaml"
+    },
+    "docker": {
+      "compose": "Docker compose",
+      "run": "Docker run"
+    }
+  }
+}
